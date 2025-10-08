@@ -16,9 +16,11 @@ This repository contains a curated selection of data analysis and visualization 
 
 ## Highlights
 
-- Movie data analysis (SQL): A focused example demonstrating how to ingest a CSV dataset, perform exploratory queries, rank and aggregate movie information, and prepare the results for visualization or reporting. See `sql_movie_data_analysis/movie_data_analysis.sql` for the full query set.
-- (Add as you develop) Python projects can include Jupyter notebooks or scripts for EDA, feature engineering, or machine learning prototypes.
-- (Add as you develop) Excel workbooks and Power BI reports demonstrate polished, presentation-ready dashboards for stakeholders.
+- Movie data analysis (SQL): A focused example demonstrating how to ingest a CSV dataset, perform exploratory queries, rank and aggregate movie information, and prepare the results for visualization or reporting. See `sql_movie_data_analysis/movie_data_analysis.sql` and `sql_movie_data_analysis/imdb_top_1000.csv` for the dataset and queries.
+
+- COVID-19 data exploration (SQL): An end-to-end analytical exercise using the `CovidDeaths.csv` and `CovidVaccinations.csv` datasets (see `sql_covid_data_analysis/covid_data_exploration.sql`). The analysis demonstrates practical techniques for real-world data: joins between cases and vaccination tables, data cleansing and type conversion, rolling aggregates and window functions to compute cumulative vaccinations, use of CTEs and temporary tables for intermediate calculations, and the creation of views to support downstream visualizations. Example outputs include percentage of population infected, deaths per population, and percent of population vaccinated — all prepared for reporting or integration into Power BI dashboards.
+
+- Other demonstrative work (Python/Excel/Power BI): Python notebooks and scripts illustrate data preparation and visualization workflows; Excel workbooks show pivot-table-driven analysis and dashboards; Power BI files (where included) present interactive reports built from prepared datasets.
 
 ## How to explore this repository
 
