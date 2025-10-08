@@ -5,6 +5,7 @@ This repository contains a curated selection of data analysis and visualization 
 ## Contents
 
 - `sql_movie_data_analysis/` — SQL-based exploratory analysis of a movie dataset (includes `imdb_top_1000.csv` and `movie_data_analysis.sql`).
+- `sql_covid_data_analysis/` — SQL exploration of COVID-19 cases and vaccinations (includes `CovidDeaths.csv`, `CovidVaccinations.csv`, and `covid_data_exploration.sql`).
 - Other folders may contain Python notebooks/scripts, Excel workbooks, and Power BI report files. Projects are grouped by technology and labelled with a short README when needed.
 
 ## Technologies & Skills Demonstrated
