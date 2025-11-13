@@ -7,6 +7,7 @@ This repository contains a curated selection of data analysis and visualization 
 - `sql_movie_data_analysis/` — SQL-based exploratory analysis of a movie dataset (includes `imdb_top_1000.csv` and `movie_data_analysis.sql`).
 - `sql_covid_data_analysis/` — SQL exploration of COVID-19 cases and vaccinations (includes `CovidDeaths.csv`, `CovidVaccinations.csv`, and `covid_data_exploration.sql`).
 - `excel_dashboard/` — Excel-based dashboard and workbook(s) demonstrating pivot tables, formulas, and presentation-ready visualizations.
+- `bi_sales_analysis/` — Power BI sales analysis project featuring interactive dashboards, data modeling, and DAX measures for business intelligence reporting.
 - Other folders may contain Python notebooks/scripts, Excel workbooks, and Power BI report files. Projects are grouped by technology and labelled with a short README when needed.
 
 ## Technologies & Skills Demonstrated
@@ -25,6 +26,8 @@ This repository contains a curated selection of data analysis and visualization 
 - Other demonstrative work (Python/Excel/Power BI): Python notebooks and scripts illustrate data preparation and visualization workflows; Excel workbooks show pivot-table-driven analysis and dashboards; Power BI files (where included) present interactive reports built from prepared datasets.
 
 - Excel dashboard (Excel): A dedicated workbook demonstrating end-user focused analysis and storytelling. The project includes structured data sheets, pivot tables for fast aggregation, formula-driven KPIs, charting for trend and comparison views, and a presentation-ready dashboard layout suitable for stakeholders. See the `excel_dashboard/` folder for the workbook(s) and notes on recreating or extending the dashboard.
+
+- BI sales analysis (Power BI): An interactive sales dashboard built in Power BI that showcases data modeling techniques, DAX measures for key performance indicators, and visual storytelling for business stakeholders. The project demonstrates the ability to connect multiple data sources, create relationships, build calculated columns and measures, and design intuitive reports that enable data-driven decision making. Explore the `bi_sales_analysis/` folder for the Power BI report file and supporting documentation.
 
 ## How to explore this repository
 
